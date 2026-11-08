@@ -1,0 +1,29 @@
+3:"$Sreact.fragment"
+4:"/iana-prototipo/_next/static/chunks/3qfy96eoyh-ek.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+d:"/iana-prototipo/_next/static/chunks/0ilnlxp7oq0sd.js"
+e:I[22016,["$4","$d"],""]
+f:I[97367,["$4"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$4"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$4"],"$15"]
+8:X
+8:C
+9:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","div",null,{"className":"mx-auto max-w-xl px-5 py-12","children":[["$","h1",null,{"className":"titulo-secao","children":"Rastreio"}],["$","p",null,{"className":"mt-3 text-lg","children":"Texto pendente. A ianá vai enviar o conteúdo oficial desta página."}],["$","$Le",null,{"href":"/","className":"acao-linha mt-6","children":"Voltar à loja"}]]}],null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"tema","t":"d","k":"rastreio","s":[]},"h":96,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+2:[["children",{"s":"ajuda","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"(loja)","h":32,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#261611"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Rastreio | ianá"}],["$","meta","1",{"name":"description","content":"Protótipo de validação da loja ianá."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@17","v":null,"s":"$9"}},"a":"$@18","u":"$@19","b":"1puDaOrG1XdRcvhpOXPKH"}
+11:null
+19:true
+9:300
+9:C
+18:0
+b:"$undefined"
+7:"$undefined"
+17:"$undefined"
+12:"$undefined"

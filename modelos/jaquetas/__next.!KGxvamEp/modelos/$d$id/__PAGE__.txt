@@ -1,0 +1,31 @@
+3:"$Sreact.fragment"
+4:"/iana-prototipo/_next/static/chunks/3qfy96eoyh-ek.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+d:"/iana-prototipo/_next/static/chunks/0ilnlxp7oq0sd.js"
+e:"/iana-prototipo/_next/static/chunks/2ro5mmc4gpl9o.js"
+f:"/iana-prototipo/_next/static/chunks/3aqj58er1abe8.js"
+10:I[28782,["$4","$d","$e","$f"],"ListaFiltrada"]
+11:I[97367,["$4"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[97367,["$4"],"$15"]
+17:"MetadataBoundary"
+18:I[97367,["$4"],"$17"]
+8:X
+8:C
+9:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","div",null,{"className":"mx-auto max-w-[1600px] px-4 py-8 md:px-10 md:py-12","children":[["$","h1",null,{"className":"titulo-gigante mb-6","children":"Jaquetas"}],["$","$L10",null,{"cards":[{"produto":{"story":null,"detalhes":[],"beingId":null,"inspiracao":null,"tryOnEligible":true,"isNew":false,"isBestSeller":true,"relatedSlugs":["conjunto-seringal"],"exemplo":true,"slug":"jaqueta-seringal","name":"Jaqueta Seringal","modelId":"jaquetas","collectionId":"primeira","basePrice":24900,"description":"Modelagem que marca a cintura. Não é só uma jaqueta de treino: é a peça que você usa o dia todo.","momentIds":["forca"],"cores":[{"id":"off","name":"Off","swatch":"#ddd2c0","images":[{"src":"/iana-prototipo/img/acervo/jaqueta-1.webp","alt":"Jaqueta Seringal off"},{"src":"/iana-prototipo/img/acervo/jaqueta-2.webp","alt":"Jaqueta Seringal off"},{"src":"/iana-prototipo/img/acervo/jaqueta-3.webp","alt":"Jaqueta Seringal off"},{"src":"/iana-prototipo/img/acervo/jaqueta-4.webp","alt":"Jaqueta Seringal off"}],"figura":"/iana-prototipo/img/recortes/jaqueta.webp","tom":"#595e48"}]},"cor":"$c:0:1:d:r:props:children:0:props:children:1:props:cards:0:produto:cores:0","variantes":[{"sku":"jaqueta-seringal-off-P","productSlug":"jaqueta-seringal","colorId":"off","size":"P","stock":3,"priceOverride":null},{"sku":"jaqueta-seringal-off-M","productSlug":"jaqueta-seringal","colorId":"off","size":"M","stock":3,"priceOverride":null},{"sku":"jaqueta-seringal-off-G","productSlug":"jaqueta-seringal","colorId":"off","size":"G","stock":3,"priceOverride":null},{"sku":"jaqueta-seringal-off-GG","productSlug":"jaqueta-seringal","colorId":"off","size":"GG","stock":3,"priceOverride":null}]}]}]]}],[["$","script","script-0",{"src":"/iana-prototipo/_next/static/chunks/2ro5mmc4gpl9o.js","async":true}],["$","script","script-1",{"src":"/iana-prototipo/_next/static/chunks/3aqj58er1abe8.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"id","t":"d","k":"jaquetas","s":[]},"h":96,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+2:[["children",{"s":"modelos","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"(loja)","h":32,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#261611"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ianá | moda fitness nascida na Amazônia"}],["$","meta","1",{"name":"description","content":"Protótipo de validação da loja ianá."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@19","v":null,"s":"$9"}},"a":"$@1a","u":"$@1b","b":"1puDaOrG1XdRcvhpOXPKH"}
+13:null
+1b:true
+9:300
+9:C
+1a:0
+b:"$undefined"
+7:"$undefined"
+19:"$undefined"
+14:"$undefined"

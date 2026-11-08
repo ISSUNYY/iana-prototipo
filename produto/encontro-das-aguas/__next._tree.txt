@@ -1,0 +1,7 @@
+:HL["/iana-prototipo/_next/static/chunks/07u1q99s3-jp3.css","style"]
+:HC["/",""]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"encontro-das-aguas","s":[]},"h":96,"c":"$Q4"}]]
+2:[["children",{"s":"produto","h":64,"c":"$Q3"}]]
+1:[["children",{"s":"(loja)","h":32,"c":"$Q2"}]]
+0:{"b":"1puDaOrG1XdRcvhpOXPKH","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
